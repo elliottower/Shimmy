@@ -55,12 +55,12 @@ except ImportError as e:
 
 __all__ = [
     "BSuiteCompatibilityV0",
-    "GymV21CompatibilityV0",
-    "GymV26CompatibilityV0",
     "DmControlCompatibilityV0",
     "DmControlMultiAgentCompatibilityV0",
-    "DmLabCompatibilityV0",
     "OpenspielCompatibilityV0",
+    "DmLabCompatibilityV0",
+    "GymV21CompatibilityV0",
+    "GymV26CompatibilityV0",
 ]
 
 
